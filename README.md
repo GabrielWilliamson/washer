@@ -14,3 +14,12 @@ This project use [react starter for laravel](https://github.com/laravel/react-st
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Inertia Badge](https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=flat-square)
+
+
+| feature | Status |
+|----------------|----------------|
+|  dahsboard panel | ❌|
+| invalidate cache in issue form and washer form| ❌ |
+| reply messages | ✅ |
+| raiting washer | ❌ |
+
